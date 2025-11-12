@@ -1,3 +1,5 @@
+note:-
+
 project of playwright automation testing using javascript 
 --->google translate module
 run comment :
